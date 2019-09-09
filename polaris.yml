@@ -6,7 +6,7 @@ project:
   name: "xenserverarmy/spring-petclinic/"
   branch: "origin/master"
   revision:
-    name: "ducky-crm-ebc"
+    name: "spring-petclinic-ebc"
     date: "2019-07-18T13:25:30Z"
   projectDir: /var/lib/jenkins/jobs/spring-petclinic/workspace
   captureDir: /var/lib/jenkins/jobs/spring-petclinic/workspace/.synopsys/polaris
