@@ -3,11 +3,11 @@ install:
   coverity:
     version: latest
 project:
-  name: "xenserverarmy/spring-petclinic/"
+  name: "The Pet Clinic - SSDC"
   branch: "origin/master"
   revision:
-    name: "spring-petclinic-ebc"
-    date: "2019-07-18T13:25:30Z"
+    name: "spring-petclinic-ssdc"
+    date: "2020-08-14T13:25:30Z"
   captureDir: .synopsys/polaris
 capture:
   coverity:
