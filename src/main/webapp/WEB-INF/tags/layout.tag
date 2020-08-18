@@ -16,7 +16,7 @@
 
         <jsp:doBody/>
 
-        <petclinic:pivotal/>
+        <petclinic:copyright/>
     </div>
 </div>
 <petclinic:footer/>
