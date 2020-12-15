@@ -1,6 +1,6 @@
 application:
-  appId: sig-pet-clinic
-  assetId: sig-pet-clinic
+  appId: sig-petclinic
+  assetId: sig-petclinic
   projectLanguage: Java
   platformVersion: Java 10
   buildSystem: Maven
